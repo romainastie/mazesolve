@@ -1,6 +1,4 @@
-# Project Title
-
-MazeSolve
+# MazeSolve
 
 ## Getting Started
 
